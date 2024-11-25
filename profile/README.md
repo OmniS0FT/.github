@@ -8,6 +8,7 @@ Omnibot brings the advanced features of popular AI interfaces down to a simple a
  -  file-based interactions
  -  voice support
  - custom memory
+ - chat exportation/download
    
 
 
