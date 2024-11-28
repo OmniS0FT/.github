@@ -1,6 +1,9 @@
 ## OmniBot 🤖
 Omnibot brings the advanced features of popular AI interfaces down to a simple and private in-browser experience. 
 
+  <p align="center"><a href="https://www.producthunt.com/posts/omnibot?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-omnibot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=655045&theme=light" width="250" height="54"  style="width: 250px; height: 54px;" alt="LOmnibot - Offline, private and localized AI services | Product Hunt"></a></p>
+
+  
 **Here are some Features:**
 
  - offline functionality
@@ -10,7 +13,7 @@ Omnibot brings the advanced features of popular AI interfaces down to a simple a
  - custom memory
  - chat exportation/download
 
-   <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1732612498/omni_cospln.png" width="400" alt="Laravel Logo"></a></p>
+   <p align="center"><a href="https://omnibot.com.co" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1732612498/omni_cospln.png" width="350" alt="omnibot Logo"></a></p>
    
 
 
