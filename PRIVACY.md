@@ -1,4 +1,4 @@
-# Privacy Policy for OmniBot
+# Privacy Policy for OmniBot, a product of OmniSoft LLC
 
 ## 1. Introduction
 
