@@ -1,5 +1,5 @@
 ## OmniSoft LLC
-We strive to make software more secure, private and decentralized!
+We strive to make software more secure, private and accessible!
 
   <p align="center"><a href="https://www.producthunt.com/posts/omnibot?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-omnibot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=655045&theme=light" width="250" height="54"  style="width: 250px; height: 54px;" alt="LOmnibot - Offline, private and localized AI services | Product Hunt"></a></p>
 
