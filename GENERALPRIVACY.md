@@ -1,6 +1,6 @@
 # Privacy Policy  
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** 2025 
 
 At **Omnisoft**, your privacy is our priority. This Privacy Policy outlines how we collect, use, and safeguard your information when you interact with our services, websites, and applications.  
 
@@ -11,9 +11,8 @@ At **Omnisoft**, your privacy is our priority. This Privacy Policy outlines how 
 ### a. Personal Information  
 We may collect personal details such as:  
 - Name  
-- Email address  
-- Phone number  
-- Payment information (for purchases or subscriptions)  
+- Email address   
+
 
 ### b. Non-Personal Information  
 We also gather non-personal data, including:  
@@ -55,7 +54,7 @@ You have the right to:
 - Opt-out of marketing communications.  
 - Request a copy of your data.  
 
-To exercise your rights, contact us at **[support@omnisoft.com](mailto:omnisoftllc.01@gmail.com)**.  
+To exercise your rights, contact us at **[support@omnisoft.com](mailto:info@omnisoft.com.co)**.  
 
 ---
 
@@ -66,7 +65,7 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 ## 7. Contact Us  
 For questions or concerns about this Privacy Policy, please contact us at:  
-- **Email:** [support@omnisoft.com](mailto:omnisoftllc.01@gmail.com)  
+- **Email:** [support@omnisoft.com](mailto:info@omnisoft.com.co)  
 - **Phone:** +905065248541 
 
 **Thank you for trusting Omnisoft with your privacy!**
