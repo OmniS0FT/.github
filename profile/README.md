@@ -14,7 +14,7 @@ This is a platform that runs LLMs and SLMs locally and natively in your browser
  - custom memory
  - chat exportation/download
 
-   <p align="center"><a href="https://omnibot.com.co" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1732612498/omni_cospln.png" width="350" alt="omnibot Logo"></a></p>
+   <p align="center"><a href="https://omnibot.com.co" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1733212752/ele_rkmlyz.png" width="250" alt="omnibot Logo"></a></p>
    
 
 
