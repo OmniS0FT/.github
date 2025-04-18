@@ -1,20 +1,25 @@
-## OmniSoft LLC
+<div>
+ <h1 align="center">Omnisoft</h1>
+</div>
 Omnisoft aims to fill in the gaps left in the current AI revolution; we create innovative platforms tailored to users' needs. We are also focused on technology that puts users in control.
 
+<div>
+ <p align="center"><a href="https://omnibot.com.co" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1733212752/ele_rkmlyz.png" width="250" alt="omnibot Logo"></a></p>
+</div>
+   
+
+
+
+## Our projects 
 
 ## OmniBot 
-This is a platform that runs LLMs and SLMs locally and natively in your browser
+Edge ai platform that runs LLMs and SLMs offline and locally in your browser
   
-**Here are some Features of our Omnibot:**
+## Omniverse
+Unified ai platform for students to get free access fine-tuned ai models
 
- - offline functionality
- - chat history maintenance
- -  file-based interactions
- -  voice support
- - custom memory
- - chat exportation/download
+## DevGPT
+Build simple apps with the gpt-4.1 series
 
-   <p align="center"><a href="https://omnibot.com.co" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1733212752/ele_rkmlyz.png" width="250" alt="omnibot Logo"></a></p>
-   
 
 
