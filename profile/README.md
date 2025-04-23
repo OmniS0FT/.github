@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Omnisoft</h1>
 </div>
-Omnisoft aims to fill in the gaps left in the current AI revolution; we create innovative platforms tailored to users' needs. We are also focused on technology that puts users in control.
+Omnisoft aims to fill in the gaps left in the current AI revolution; we are a group  focused on contributing to the world of free software and artificial intelligence 
 
 <div>
  <p align="center"><a href="https://omnibot.com.co" target="_blank"><img src="https://res.cloudinary.com/diekemzs9/image/upload/v1733212752/ele_rkmlyz.png" width="250" alt="omnibot Logo"></a></p>
